@@ -17,7 +17,7 @@ Music visualiser using Processing libraries in Java.
 # Instructions
 
 # How it works
-
+There are multiple classes which get called in MyVisual in order to combine the visuals together into one plane. The visual classes I created were CUBE, Fractal and WaveForm. 
 
 # What I am most proud of in the assignment
 I am most proud in this assignment by finding this colour scheme and using multiple wave forms to create an effect on the top and bottom which form my perspective look like sets of teeth and makes it feel like I am travelling through a tunnel. I like how the visualiser looks overall since I feel like everything fits together well. 
