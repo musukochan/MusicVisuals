@@ -1,8 +1,8 @@
 # Music Visualiser Project
 
-Name:
+Name: Mihai Alexandru Samson
 
-Student Number: 
+Student Number: C19356403
 
 ## Instructions
 - Fork this repository and use it a starter project for your assignment
@@ -12,13 +12,17 @@ Student Number:
 - Check out the WaveForm and AudioBandsVisual for examples of how to call the Processing functions from other classes that are not subclasses of PApplet
 
 # Description of the assignment
+Music visualiser using Processing libraries in Java.
 
 # Instructions
 
 # How it works
 
-# What I am most proud of in the assignment
 
+# What I am most proud of in the assignment
+I am most proud in this assignment by finding this colour scheme and using multiple wave forms to create an effect on the top and bottom which form my perspective look like sets of teeth and makes it feel like I am travelling through a tunnel. I like how the visualiser looks overall since I feel like everything fits together well. 
+
+This is a youtube video showcasing my visualiser: [![YouTube](http://img.youtube.com/vi/J2kHSSFA4NU/0.jpg)](https://youtu.be/xcCPZlk1nxE)
 # Markdown Tutorial
 
 This is *emphasis*
