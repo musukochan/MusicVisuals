@@ -51,12 +51,17 @@ The draw function inside MYVisual which creates the visuals. The for loop calls 
         translate (-500,-493,-250);
         tr.render();
 ```
+if else function in a for loop that rotates and draws the fractal based on the amplitude of the song
 
 ```Java
-
-
-
-
+	 if(angle<360) //if statement for effect in first 360 degrees
+            {
+                tr.rotate(PApplet.radians(a)*PApplet.cos(PApplet.radians(angle)));
+            }
+            else
+            {
+                tr.rotate(PApplet.radians(a));
+            }
 
 ```
 
